@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Main class
 public class ExBank {
     public static void main(String arg[]) {
         Scanner KB = new Scanner(System.in);
